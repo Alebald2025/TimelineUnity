@@ -278,7 +278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27e788723bc39e1408d1781dcf694b77, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -87.963
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27e788723bc39e1408d1781dcf694b77, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -620,6 +620,8 @@ PlayableDirector:
     value: {fileID: 341080367}
   - key: {fileID: 8953987575884934618, guid: e585bc078e4e6e1479b5481ba7a485af, type: 2}
     value: {fileID: 178335930}
+  - key: {fileID: -3409455976739033835, guid: e585bc078e4e6e1479b5481ba7a485af, type: 2}
+    value: {fileID: 341080367}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1800614600
@@ -652,7 +654,7 @@ Animator:
   m_GameObject: {fileID: 2101074578}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 27e788723bc39e1408d1781dcf694b77, type: 3}
-  m_Controller: {fileID: 9100000, guid: e053fb9f8eb42d84988ae53b8b1569de, type: 2}
+  m_Controller: {fileID: 9100000, guid: 5ee077f32b2e36545a93b5cd67525ed0, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
